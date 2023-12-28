@@ -1,0 +1,32 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "\"Weather App using weather API\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hexzenberg/Weather-App.git"
+  },
+  "keywords": [
+    "\"Weather",
+    "hexzenberg\""
+  ],
+  "author": "Nikhil Kumar Chaudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hexzenberg/Weather-App/issues"
+  },
+  "homepage": "https://github.com/Hexzenberg/Weather-App#readme",
+  "devDependencies": {
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-n": "^16.5.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
